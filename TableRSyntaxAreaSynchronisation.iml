@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="rsyntaxtextarea-3.3.4" level="project" />
+    <orderEntry type="library" name="Notify-4.4" level="project" />
+    <orderEntry type="library" name="flatlaf-intellij-themes-3.2.5" level="project" />
+    <orderEntry type="library" name="org.apache.batik.transcoder-1.6.0-20081006" level="project" />
+    <orderEntry type="library" name="batik-bridge-1.17" level="project" />
+    <orderEntry type="library" name="org.apache.batik.util-1.6.0-20081006" level="project" />
+    <orderEntry type="library" name="batik-dom-1.17" level="project" />
+    <orderEntry type="library" name="batik-gvt-1.17" level="project" />
+    <orderEntry type="library" name="batik-util-1.17" level="project" />
+    <orderEntry type="library" name="batik-svg-dom-1.17" level="project" />
+    <orderEntry type="library" name="commons-io-2.15.1" level="project" />
+    <orderEntry type="library" name="batik-anim-1.8" level="project" />
+  </component>
+</module>
